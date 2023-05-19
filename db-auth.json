@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$mVYB8XB5SGpju.Y4.5.GPOchMB.Wu2eupSe5496HvHpqbBr2nmU/6",
+      "name": "Alessandro",
+      "surname": "Dinato",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$UeuM7Rs9DBJ3BaRxJvbHye34k.kOWbO9xjqDAaFC2BH0wKdN3EbrS",
+      "name": "Alessandro",
+      "surname": "Dinato",
+      "id": 2
+    }
+  ]
+}

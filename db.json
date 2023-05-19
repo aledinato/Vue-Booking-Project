@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "id": 4,
+      "email": "a@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    },
+    {
+      "id": 4,
+      "email": "admin@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    },
+    {
+      "id": 4,
+      "email": "admin@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    },
+    {
+      "id": 10,
+      "email": "admin@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    },
+    {
+      "id": 10,
+      "email": "admin@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "a@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato"
+    },
+    {
+      "id": 2,
+      "email": "admin@gmail.com",
+      "name": "Alessandro",
+      "surname": "Dinato",
+      "password": "123456"
+    }
+  ],
+  "events": [
+    {
+      "id": 4,
+      "title": "Riunione",
+      "start": "2023-05-22T14:00:00",
+      "end": "2023-05-23T14:00:00",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullab hdsbfhdsbvk hsabahbdfhavbjb lasdhfbvlhd bwhvbsdh lkvbdhabhdasbfaksvhajm euismod, nisl eget",
+      "organizer": {
+        "name": "Mario",
+        "surname": "Rossi",
+        "email": "rossi@gmail.com"
+      }
+    },
+    {
+      "id": 10,
+      "title": "ds",
+      "description": "dsd",
+      "start": "2023-05-17T23:54",
+      "end": "2023-05-17T23:54"
+    }
+  ]
+}
